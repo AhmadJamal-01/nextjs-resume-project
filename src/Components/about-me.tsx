@@ -1,5 +1,5 @@
 import React, {useId} from "react";
-import Skills from "./Components/skills";
+import Skills from "./skills"
 
 const AboutMe = ({data, skills}) => {
 const { title, body} = data;

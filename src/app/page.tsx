@@ -3,6 +3,7 @@ import AboutMe from "../Components/about-me";
 import { aboutMe, skills, professionalData } from "@/data/page-data";
 import ProfessionaExperience from "@/Components/ProfessionaExperience";
 
+
 const page = () => {
 	return (
 		<div>
